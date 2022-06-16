@@ -5,7 +5,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a5dbbee9-7396-4e7f-8ce7-6abd362d9752/deploy-status)](https://app.netlify.com/sites/r-pkgs/deploys)
 
 <!-- badges: end -->
-
+im the best
 This repo holds the code and text behind the **R Packages** book. The site is built with [bookdown](https://bookdown.org/yihui/bookdown/).
 
   * The first edition is available at <http://r-pkgs.had.co.nz>.
